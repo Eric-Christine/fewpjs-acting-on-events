@@ -1,8 +1,10 @@
 #dodger {
   background-color: white;
-  height: 20px;
+  background-image: url(https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/p960x960/35159259_1830605480352413_6418758577250369536_o.jpg?_nc_cat=106&ccb=2&_nc_sid=85a577&_nc_ohc=vPs_hfsMpkoAX-enTky&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=89c638aea99117cb1518570caae65ecb&oe=5FC10C66);
+  background-size: cover;
+  height: 100px;
   position: absolute;
-  width: 40px;
+  width: 100px;
 }
 
 #game {
